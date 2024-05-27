@@ -19,3 +19,12 @@ JUnit test framework
 Spring Security
 Twitter Bootstrap
 Maven
+
+
+PROCEDURE:
+PHASE 1: FORK THE REPOSITORY
+> Navigate to the repository you want to fork, Locate the fork button, choose the destination and wait for the fork to complete
+PHASE 2: SETTING UP THE INFRASTRUCTURE
+> 1. Create a Virtual Machine and connect to it via SSH
+> 
+

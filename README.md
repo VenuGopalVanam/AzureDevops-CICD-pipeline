@@ -44,3 +44,7 @@ STEP 4. CREATE RELEASE PIPELINE
 
 STEP 5. ENABLE CI/CD
 > Enable Continous integration and continous deployment triggers
+
+STEP 6. RUN THE PIPELINE
+
+STEP 7. VERIFY THE DEPLOYMENT
